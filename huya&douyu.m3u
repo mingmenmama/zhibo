@@ -11,6 +11,8 @@ http://10.10.10.1:35455/huya/333003
 http://10.10.10.1:35455/huya/222523
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/d2/4f7d5063c5bcfff780ff4ab5a7d74a_180_135.jpg?1638862345&465542" group-title="英雄联盟",ning王
 http://10.10.10.1:35455/huya/980312
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/de/19441c401c9d6fba4cea0829a77cd0_180_135.jpg?1702744813&476026" group-title="英雄联盟",baolan
+http://10.10.10.1:35455/huya/990716
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/b2/e81cad4e92aecc726c023d7fc5c717_180_135.jpg?1670570541&465542" group-title="英雄联盟",JackeyLove
 http://10.10.10.1:35455/huya/111800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/45/72830cef1a5cd56eb29c0af0815d31_180_135.jpg?1669888115&465542" group-title="英雄联盟",Rookie
@@ -25,3 +27,5 @@ http://10.10.10.1:35455/huya/20641
 http://10.10.10.1:35455/huya/7911
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/a37168c153d94b52b540c5d35ceefa20_big.jpg" group-title="英雄联盟",imp
 http://10.10.10.1:35455/douyu/522387
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/cf/958d77268d883ba42f7ffd97de1e54_180_135.jpg?1635169703&476026" group-title="英雄联盟",久哥哥
+http://10.10.10.1:35455/douyu/529
