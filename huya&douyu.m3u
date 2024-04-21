@@ -8,7 +8,7 @@ http://10.10.10.1:35455/huya/s4k?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1018/1c/76dea3a570811bd068e467b476ef14_180_135.jpg?1610098976&476026" group-title="英雄联盟",英雄联盟赛事二路
 http://10.10.10.1:35455/huya/18525094?media=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/f9d5206230cc4ae7b3325ea756172ee7_big.jpg" group-title="英雄联盟",斗鱼英雄联盟职业联赛
-http://10.10.10.1:35455/douyu/288016(?stream=flv)
+http://10.10.10.1:35455/douyu/288016?stream=flv
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/bb/3067534226d20fa2cabbac88ac2e00_180_135.jpg?1642592588&465542" group-title="英雄联盟",The Shy
 http://10.10.10.1:35455/huya/991111?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836&465542" group-title="英雄联盟",姿态
@@ -32,6 +32,6 @@ http://10.10.10.1:35455/huya/20641?media=hls
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/32/062b3abea4cfe237a3dab14dc5753a_180_135.jpg?1514467694&465542" group-title="绝地求生",4AMGodv
 http://10.10.10.1:35455/huya/7911?media=hls
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/a37168c153d94b52b540c5d35ceefa20_big.jpg" group-title="英雄联盟",imp
-http://10.10.10.1:35455/douyu/522387(?stream=flv)
+http://10.10.10.1:35455/douyu/522387?stream=flv
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/cf/958d77268d883ba42f7ffd97de1e54_180_135.jpg?1635169703&476026" group-title="英雄联盟",久哥哥
-http://10.10.10.1:35455/douyu/529(?stream=flv)
+http://10.10.10.1:35455/douyu/529?stream=flv
