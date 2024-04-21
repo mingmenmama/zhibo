@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/08/8797cfc54f1cd2dc78daebd9163932_180_135.jpg?1591174501&465542" group-title="英雄联盟",虎牙英雄联盟职业联赛
-http://10.10.10.1:35455/huya/lpl
+http://10.10.10.1:35455/huya/660000
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/f9d5206230cc4ae7b3325ea756172ee7_big.jpg" group-title="英雄联盟",斗鱼英雄联盟职业联赛
 http://10.10.10.1:35455/douyu/288016
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/bb/3067534226d20fa2cabbac88ac2e00_180_135.jpg?1642592588&465542" group-title="英雄联盟",The Shy
